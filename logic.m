@@ -1,4 +1,3 @@
-
 def classify_stock(financial_data):
     pe_ratio = financial_data.get('forwardPE', None)
     debt_to_equity = financial_data.get('debtToEquity', None)

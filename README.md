@@ -4,23 +4,23 @@ Stock fundamental analysis is a method used to assess the intrinsic value and fi
 <img width="931" height="240" alt="Screenshot 2025-07-25 at 6 23 40 PM" src="https://github.com/user-attachments/assets/c828db0e-ead1-4957-9770-df520c3439b3" />
 
 Key Features
-Automated extraction and calculation of critical financial ratios for listed companies.
+1. Automated extraction and calculation of critical financial ratios for listed companies.
 
-Compare stocks based on:
+2. Compare stocks based on:
 
-Price-to-Earnings Ratio (P/E): Gauge if a stock is over- or undervalued relative to its earnings.
+ A. Price-to-Earnings Ratio (P/E): Gauge if a stock is over- or undervalued relative to its earnings.
 
-Return on Investment (ROI): Measure management’s effectiveness at generating profits from investments made.
+ B. Return on Investment (ROI): Measure management’s effectiveness at generating profits from investments made.
 
-Debt to Equity Ratio: Assess the company’s capital structure and financial risk.
+ C. Debt to Equity Ratio: Assess the company’s capital structure and financial risk.
 
-Designed for technical and non-technical investors—no finance background required.
+3. Designed for technical and non-technical investors—no finance background required.
 
-Easy-to-read output, ready for decision-making or further analysis.
+4. Easy-to-read output, ready for decision-making or further analysis.
 
 How it Works
-Data Collection: The script fetches or imports financial statement data of your target companies.
+1. Data Collection: The script fetches or imports financial statement data of your target companies.
 
-Ratio Calculation: Automatically computes the P/E, ROI, and Debt to Equity ratios using the latest reported figures.
+2. Ratio Calculation: Automatically computes the P/E, ROI, and Debt to Equity ratios using the latest reported figures.
 
-Analysis Output: Presents the results in a clear, tabular format for quick comparison, highlighting trends and outliers.
+3. Analysis Output: Presents the results in a clear, tabular format for quick comparison, highlighting trends and outliers.

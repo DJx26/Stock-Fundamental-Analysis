@@ -12,4 +12,7 @@ def classify_stock(financial_data):
     else:
         return risky
 stock_safety = classify_stock(ratios)
+
 print("Stock classification (1=Safe, 0=Risky): ", stock_safety)
+
+

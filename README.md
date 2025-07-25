@@ -1,3 +1,8 @@
+HEY VIEWERS I HAVE CRETED THIS PROJECT IN MY 2ND YEAR OF DATA SCIENCE 
+
+Unlock the power of stock investing with Stock-Fundamental-Analysis — a Python-powered project that lets you analyze and evaluate companies using essential financial ratios. This tool simplifies fundamental analysis, empowering investors and analysts to make smarter decisions based on company performance fundamentals.
+
+
 # Stock-Fundamental-Analysis
 What is Stock Fundamental Analysis?
 

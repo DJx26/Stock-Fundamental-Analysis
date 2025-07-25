@@ -25,3 +25,13 @@ How it Works
 2. Ratio Calculation: Automatically computes the P/E, ROI, and Debt to Equity ratios using the latest reported figures.
 
 3. Analysis Output: Presents the results in a clear, tabular format for quick comparison, highlighting trends and outliers.
+
+IPORTANT ;
+
+Why Use This Project?
+
+1: Objective, quantitative investing: Avoid speculation by sticking to concrete, universally accepted metrics.
+
+2: Efficiency: Analyze multiple stocks quickly—no more manual ratio crunching.
+
+3: Open-source flexibility: Extend the analysis to more ratios or data sources to fit your unique workflow.

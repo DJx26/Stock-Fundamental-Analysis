@@ -1,6 +1,5 @@
 
 predictions = model.predict(X_test)
-
 for i, prob in enumerate(predictions):
     if prob > 0.5:
         print(f"Stock {i+1}: SAFE with probability {prob[0]:.2f}")

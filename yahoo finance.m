@@ -2,6 +2,7 @@ import yfinance as yf
 #acc. to your replace stock name
 stock = yf.Ticker('NHPC.NS')
 
+
 balance_sheet = stock.balance_sheet.T
 cashflow = stock.cashflow.T
 income_statement = stock.financials.T

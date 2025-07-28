@@ -3,6 +3,7 @@ def classify_stock(financial_data):
     debt_to_equity = financial_data.get('debtToEquity', None)
     roe = financial_data.get('returnOnEquity', None)
     current_ratio = financial_data.get('currentRatio', None)
+    
 
     safe = 1
     risky = 0
